@@ -1,16 +1,12 @@
 ### Hi there 👋 I'm Rajini Mohanram!
 <p>
   Freelance - Java Full Stack Consultant. You can reach me in 
-</p>
 <a href="https://www.linkedin.com/in/rajini-mohanram-30988597/">
   <img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
 </a>
-<!--
-**RajiniMohanram/RajiniMohanram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
--->
-<br/>
+---
 
 ### My repositories use/depend one or more of the following
 
