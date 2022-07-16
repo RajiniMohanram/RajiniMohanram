@@ -2,7 +2,7 @@
 <p>
   Freelance - Java Full Stack Consultant. You can reach me in 
 <a href="https://www.linkedin.com/in/rajini-mohanram-30988597/">
-  <img width="15%" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
+  <img width="15%" align="middle" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-ar21.svg">
 </a>
 </p>
 
